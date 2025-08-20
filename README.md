@@ -1,3 +1,3 @@
 # versionControlDemo
 This is a repository<br>
-Author - Vipin Gusain
+Author -  Gusain
